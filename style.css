@@ -22,4 +22,8 @@ body{
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-}       
+}      
+.wrapper a{
+    color: white;
+    text-decoration: none;
+}
