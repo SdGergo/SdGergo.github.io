@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    border: 1px solid black;
+    background: linear-gradient( rgb(148, 10, 10), #232323, rgb(148, 10, 10));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height:  100vh;
+    margin: 0;
+}
+
+.wrapper{
+    padding: 10px;
+    background: #cca6a694;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}       
